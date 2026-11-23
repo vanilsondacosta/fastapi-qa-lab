@@ -1,4 +1,5 @@
 from http import HTTPStatus
+
 from fastapi.testclient import TestClient
 
 from initially_zero.app import app
